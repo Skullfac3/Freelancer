@@ -1,5 +1,5 @@
 # Freelancer
-Este proyecto fue realizado con HTML5 y CSS3. Utilizando herramientas como resposive web design y normalize adaptable a dispositivos moviles. 
+Este proyecto fue realizado con HTML5 y CSS3. Utilizando herramientas como responsive web design y normalize adaptable a dispositivos moviles. 
 
 ![image](https://github.com/Skullfac3/Freelancer/assets/81647887/6bc31ccf-2659-402f-9c84-8d0312f218ba)
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
